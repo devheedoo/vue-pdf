@@ -1,3 +1,6 @@
+> This is a forked repositoy of [FranckFreiburger/vue-pdf](https://github.com/FranckFreiburger/vue-pdf) to fix [the issue 369](https://github.com/FranckFreiburger/vue-pdf/issues/369).
+
+
 # vue-pdf
 vue.js pdf viewer is a package for Vue that enables you to display and view PDF's easily via vue components.
 
